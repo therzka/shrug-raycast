@@ -1,7 +1,7 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "name": "shrug",
-  "title": "Shrug",
+  "name": "shrugs",
+  "title": "Shrugs",
   "description": "Quick access to shrug emojis and emoticons ¯\\_(ツ)_/¯",
   "icon": "icon.png",
   "author": "tali_herzka",
@@ -13,7 +13,7 @@
     {
       "name": "index",
       "title": "Shrugs",
-      "subtitle": "Quick access to shrug emojis and emoticons ¯\\_(ツ)_/¯",
+      "subtitle": "Quick access to various shrug emojis and emoticons ¯\\_(ツ)_/¯",
       "description": "Browse and paste various shrug emoticons",
       "mode": "view"
     },
