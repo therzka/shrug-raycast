@@ -1,8 +1,8 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "shrugs",
-  "title": "Shrugs",
-  "description": "Quick access to shrug emojis and emoticons ¯\\_(ツ)_/¯",
+  "title": "Shrug Emoticons",
+  "description": "Browse and paste shrug emoticons, emojis, and images",
   "icon": "icon.png",
   "author": "tali_herzka",
   "categories": [
@@ -12,27 +12,25 @@
   "commands": [
     {
       "name": "index",
-      "title": "Shrugs",
-      "subtitle": "Quick access to various shrug emojis and emoticons ¯\\_(ツ)_/¯",
-      "description": "Browse and paste various shrug emoticons",
+      "title": "Browse Shrugs",
+      "description": "Browse and paste various shrug emoticons, emojis, and images",
       "mode": "view"
     },
     {
       "name": "shruggie",
-      "title": "Shruggie",
-      "subtitle": "Instantly paste the classic shrug ¯\\_(ツ)_/¯",
-      "description": "Instantly paste the classic shrug emoticon",
+      "title": "Paste Classic Shrug", 
+      "description": "Instantly paste the classic shrug emoticon ¯\\_(ツ)_/¯",
       "mode": "no-view"
     }
   ],
   "dependencies": {
     "@raycast/api": "^1.102.0",
-    "react": "^19.1.1"
+    "react": "^18.2.0"
   },
   "devDependencies": {
     "@raycast/eslint-config": "^1.0.8",
     "@types/node": "20.8.10",
-    "@types/react": "^18.3.3",
+    "@types/react": "^18.2.0",
     "eslint": "^8.57.0",
     "prettier": "^3.0.3",
     "typescript": "^5.4.5"

@@ -1,4 +1,4 @@
-# Shrug Raycast Extension
+# Paste Shrug Emoticons Raycast Extension
 
 ### `¯\_(ツ)_/¯`
 

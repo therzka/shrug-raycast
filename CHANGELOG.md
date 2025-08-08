@@ -1,4 +1,4 @@
-# Shrugs Changelog
+# Shrug Emoticons Changelog
 
 ## [Initial Release] - 2025-08-06
 
